@@ -18,7 +18,7 @@ html {
 }
 
 .img-flex {
-
+  width: 100%;
 }
 
 .circle {
@@ -27,4 +27,19 @@ html {
 
 .body {
 
+}
+
+.btn {
+  color: #fff;
+  background-color: #000;
+  font-size: 1.5rem;
+  display: inline-block;
+  padding: .5em;
+  border: 1px solid;
+  border-color: #000;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  background-color: #333;
 }
